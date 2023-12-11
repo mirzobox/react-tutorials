@@ -1,0 +1,12 @@
+{
+  "name": "2-lesson",
+  "private": true,
+  "_comment": "private: true; <== without warnings",
+  "scripts": {
+    "dev": "vite"
+  },
+  "author": "mirzobox",
+  "devDependencies": {
+    "vite": "^5.0.7"
+  }
+}
