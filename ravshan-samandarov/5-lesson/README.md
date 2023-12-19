@@ -62,3 +62,9 @@ Rules of JSX
     <header>Header</header>
     <footer>Footer</footer>
   </App>
+
+- Some props of DOM elements are different than HTML attributes
+
+class ==> className
+for ==> htmlFor
+onclick ==> onClick, onClickCapture
