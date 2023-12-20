@@ -18,7 +18,7 @@ Rules of JSX
   // <somevar[abc]>
 
   ✅
-  const Component = <somevar[abc]>;
+  const Component = somevar[abc];
   <Component />
 
 - Single root
